@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **WEB DEVELOPMENT**
 
-- 💬 Ask me about **Html,Css,JavasScript,ReactJS,NodeJS,ExpressJS,MongoDB**
+- 💬 Ask me about **Html, Css, JavasScript, ReactJS, NodeJS, ExpressJS, MongoDB, Wordpress**
 
 - 📫 How to reach me **avradipkundu851@gmail.com**
 
